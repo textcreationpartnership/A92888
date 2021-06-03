@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad and true relation of a most barbarous and bloody murder committed by one Thomas Watson, a weaver, upon the body of Mary Watson, his wife, being great with child and near her delivery, in Peter's-Street, in the parish of St. George's, Southwark, on Thursday the 16th. of Decemb. 1686. Together, with the circumstances that attended it; and how, upon examination of the witnesses, the coroner's inquest found it: with other material matters, that occurred on that occasion. This may be printed, Decemb. xx. 1686. R.P.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92888</idno><idno type="EEBO-CITATION">99895348</idno>
+  <idno type="VID">152719</idno>
+  <idno type="EEBO-PROQUEST">2248567314</idno>
+  
+            <idno type="STC">Wing S246A</idno>
+            <idno type="STC">ESTC R229674</idno>
+            <idno type="PROQUEST">99895348</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895348e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2317:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad and true relation of a most barbarous and bloody murder committed by one Thomas Watson, a weaver, upon the body of Mary Watson, his wife, being great with child and near her delivery, in Peter's-Street, in the parish of St. George's, Southwark, on Thursday the 16th. of Decemb. 1686. Together, with the circumstances that attended it; and how, upon examination of the witnesses, the coroner's inquest found it: with other material matters, that occurred on that occasion. This may be printed, Decemb. xx. 1686. R.P.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E.C. and are to be sold at the Golden Patten, near St. George's-Church in Southwark,</publisher>
+                  <pubPlace>Londgn [i.e. London]:</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Watson, Thomas, --  weaver --  Early works to 1800.</term>
+               <term type="personal_name">Watson, Mary, d. 1686 --  Early works to 1800.</term>
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152719:1"/>
+            <p>A SAD and TRUE RELATION OF A most Barbarous and Bloody MURDER Committed by One Thomas Watson, a Weaver, UPON The Body of <hi>Mary Watson,</hi> his Wife, <hi>Being Great with Child, and near her Delivery,</hi> IN <hi>Peter's-Street,</hi> in the Parish of St. <hi>George</hi>'s, <hi>South<g ref="char:EOLhyphen"/>wark,</hi> on <hi>Thursday</hi> the 16th. of <hi>Decemb.</hi> 1686.</p>
+            <p>TOGETHER, With the Circumstances that attended it; and how, upon Examination of the Witnesses, the <hi>CORONER</hi>'s Inquest Found it: With other Material Matters, that oc<g ref="char:EOLhyphen"/>curred on that Occasion.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <dateline>
+                              <date>Decemb. xx. 1686.</date>
+                           </dateline>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDGN,</hi> Printed for <hi>E. C.</hi> and are to be Sold at the <hi>Golden Patten,</hi> near St. <hi>George</hi>'s-Church in <hi>Southwark,</hi> 1686.</p>
+            <pb facs="tcp:152719:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_a_murder">
+            <pb facs="tcp:152719:3"/>
+            <pb n="3" facs="tcp:152719:3"/>
+            <head>A SAD and TRUE RELATION OF A most Barbarous and Bloody MURDER COMMITTED By one Thomas Watson, <hi>&amp;c.</hi>
+            </head>
+            <p>THE World cannot but stand amazed at, and deeply deplore the miserable con<g ref="char:EOLhyphen"/>dition of Mankind, when it pleases the Almighty God to leave them to them<g ref="char:EOLhyphen"/>selves: And the more Miserable it is, that no Example of Publick Justice can prevail upon them to take warning; nor yet by the Sacred Laws of Holy Writ, which absolutely says, <hi>That if Man spills Innocent Blood, by M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n his Blood shall be spilled;</hi> a most Miserable and Lamentable Example of which, You have here a True Relation as followeth.</p>
+            <pb n="4" facs="tcp:152719:4"/>
+            <p>
+               <hi>Thomas Watson,</hi> a <hi>Stafford-shire</hi>-Man, Born at <hi>Hildersham</hi> near <hi>Stone,</hi> in the said County, of good and Honest Parents, was sent up to <hi>London</hi> to be an Apprentice, and was Bound to a Crape-Weaver, where he Served his Time Faithfully; and after that Married a Wife, and Lived in the <hi>Mint,</hi> in the Borough of <hi>Southwark,</hi> for some years; but there being often Quarrels between him and his Wife, as the Neigh<g ref="char:EOLhyphen"/>bours Living near him, do affirm: At last, it so sell out, that on <hi>Thursday</hi> the 16th. of this Instant <hi>Decemb.</hi> (though nothing appeared to the contrary, but that she was an In<g ref="char:EOLhyphen"/>dustrious and Laborious Woman) the said <hi>Thomas Watson</hi> committed a most Horrid and Barbarous Murder on his Wife, (being great with Child) that ever was heard of in the Memory of Man.</p>
+            <p>The manner and provocation was this, <hi>viz.</hi> He having had some Jealousie of her Imbezling his Money, or taking it up and not giving him an account of it; for that he not only sent her abroad with his Work, but that she under<g ref="char:EOLhyphen"/>took to Sell Crape and Hair-Plush for others, as also carry<g ref="char:EOLhyphen"/>ing them on sundry occasions to the Dyers, he took occasi<g ref="char:EOLhyphen"/>on to watch her, and found that she went into a Broakers-Shop (where she had Pawned two Pieces of Crape for Mo<g ref="char:EOLhyphen"/>ney to supply her present Necessity) with an intent, as she said, to Redeem them; but this not satisfying him, he abu<g ref="char:EOLhyphen"/>sed her in the Street, at an unseemly rate, threatning her likewise in such a manner, that she was afraid to come home, and so lay at a Friends House in <hi>Blackman-street</hi> that Night; when the next Morning he not only sent to Inquire for her, but came in search of her himself; but she being apprehen<g ref="char:EOLhyphen"/>sive of some danger, refused to go with him, at least to go home with him, unless some Persons whom she named (and
+<pb n="5" facs="tcp:152719:4"/> were it seems Lodgers in the House where she Lived) were at home; whereupon he leaving her, on <hi>Thursday</hi> it hap<g ref="char:EOLhyphen"/>pened, that she having heard that her Husband had given out some threatning words against her, came to a Neighbours House, and told the People what had befallen her, yet ex<g ref="char:EOLhyphen"/>pressing a willingness to return home; and thereupon that matters might be somewhat accommodated between them, and a better understanding had; she desired one <hi>Cook</hi> a Journey man Weaver, to go up and pacifie her Husband, which he undertook to do; when coming into his Cham<g ref="char:EOLhyphen"/>ber, he found <hi>Watson</hi> drying a piece of Crape by the Fire; whereupon, he said, How now, what are you Drying your Crape? Ay, says he; and thereupon looking over his shoul<g ref="char:EOLhyphen"/>der, he espied his Wife, who was it seems, (contrary to the knowledge of the said <hi>Cook</hi>) unadvisedly come after him, upon the sight of her, Swearing an Oath, and giving out some threatning words for her refusing to come Home; he rise from his Chair, and made at her in a great Fury, but <hi>Cock</hi> Interposing; he steps to the Bed, and from the Teaster takes his Bayonet, (one of the Daggers the Granadeers wear by their side, having been lately a Souldier, but now cashier<g ref="char:EOLhyphen"/>ed, or otherwise dismissed) and whilst <hi>Cook</hi> (who not know<g ref="char:EOLhyphen"/>ing what he had in his hand, by reason of the darkness of the place, <hi>&amp;c.</hi>) indeavoured to keep them asunder, reach<g ref="char:EOLhyphen"/>ing out his Arm, he struck her on the Right Side, under the short Ribs, upon which the Blood gushing out, she then with a faint Voice cryed, <hi>O!</hi> Thomas, <hi>you have now done my business,</hi> and so fell down Dead; whereupon, whilst <hi>Cook</hi> run down to call People to Apprehend him, he took her in his Arms and placed her in a Chair, seeming much to be<g ref="char:EOLhyphen"/>wail the unhappy accident, crying out, <hi>He had Kill'd his Wife, and was undone himself:</hi> Immediately the Chirurgeon
+<pb n="6" facs="tcp:152719:5"/> being sent for, and probing the Wound, delivered upon Oa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, that the Wound was one Inch and an half in breadth, and as he believes nine Inches deep; and he does likewise believe, the Child was Drowned in its Mothers Blood, or else struck to the Heart with the aforesaid Dagger.</p>
+            <p>
+               <hi>Thomas Wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son</hi> being asked what was the provocation he had to do this Wicked Murther? he answered very slightly, <hi>His Wife had be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a very had and ill Wife to him in a great many respects; but it was his Passion, and he was sorry for it.</hi> But by the Relation of his Neighbours (who were Sworn be<g ref="char:EOLhyphen"/>fore the Justice of the Peace) he had often threatned his Wives Death; and that she her self had said oftentimes to her Neighbours, <hi>That she was afraid her Husband would be the Death of her some time or other.</hi>
+            </p>
+            <p>So after a long and tedious Examination before the Justice of the Peace, <hi>Thomas Watson</hi> was committed to the <hi>Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shalses,</hi> the Goal for the County of <hi>Surry;</hi> where he lyes t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the next Assizes for that County, and must then expect the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rd of such a Bloody Murther: And it is hoped, the Horridness of this I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>humane Murther will set that serious <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ession in, and a Holy Resolution on the Heart of every Man, for ever to abhor, and abandon such unheard of Barbarous Cruelties.</p>
+            <p>On <hi>Fryday, Decemb.</hi> the 17th. the <hi>Coroner</hi>'s Inquest took a View of the Body; and, upon Examination of the Wit<g ref="char:EOLhyphen"/>nesses, Found it Wilful Murder: After which the Corps were Buried.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="attestation">
+            <pb n="7" facs="tcp:152719:5"/>
+            <p>I Being the <hi>Constable</hi> that Appre<g ref="char:EOLhyphen"/>hended <hi>Watson</hi> the Murderer, and Heard the Examination of the Witnesses upon this Matter, do testifie This to be a True Account.</p>
+            <closer>
+               <dateline>Witness my Hand <date>this 18th. of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1686.</date>
+               </dateline>
+               <signed>John Underhill.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
